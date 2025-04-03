@@ -1,0 +1,28 @@
+C:\Users\Пользователь\source\repos\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\Пользователь\source\repos\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\Пользователь\source\repos\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\Пользователь\source\repos\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\Пользователь\source\repos\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\Yaroslalalalave\source\repos\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\Yaroslalalalave\source\repos\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\Yaroslalalalave\source\repos\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\Yaroslalalalave\source\repos\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+C:\Users\Yaroslalalalave\source\repos\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\Yaroslalalalave\source\repos\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\Yaroslalalalave\source\repos\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+D:\ОП\Практика №1\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+D:\ОП\Практика №1\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+D:\ОП\Практика №1\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+D:\ОП\Практика №1\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+D:\ОП\Практика №1\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+D:\ОП\Практика №1\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+D:\ОП\Практика №1\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\temax\OneDrive\Рабочий стол\оп\Практика №1\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\temax\OneDrive\Рабочий стол\оп\Практика №1\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\temax\OneDrive\Рабочий стол\оп\Практика №1\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\temax\OneDrive\Рабочий стол\оп\Практика №1\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+C:\Users\temax\OneDrive\Рабочий стол\оп\Практика №1\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\temax\OneDrive\Рабочий стол\оп\Практика №1\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\temax\OneDrive\Рабочий стол\оп\Практика №1\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
